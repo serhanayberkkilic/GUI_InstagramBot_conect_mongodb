@@ -1,2 +1,2 @@
-# serGUI_InstagramBot_conect_mongodb
+# GUI_InstagramBot_conect_mongodb
 instagram bot with connect mongodb
